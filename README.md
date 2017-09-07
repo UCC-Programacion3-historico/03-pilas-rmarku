@@ -30,5 +30,4 @@ Realizar un programa en C++ que me calcule la expresión postfija.
 
 
 ##    Ejercicio N°6. 
-Agregue el método: insertAfter2(int oldValue, int n, int newValue) que inserte un nodo
-con el valor newValue después de la enésima ocurrencia de oldValue.
+Hacer calculadora postfija
