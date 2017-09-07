@@ -30,4 +30,4 @@ Realizar un programa en C++ que me calcule la expresión postfija.
 
 
 ##    Ejercicio N°6. 
-Hacer calculadora postfija
+Hacer calculadora postfija 
